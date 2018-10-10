@@ -1,0 +1,24 @@
+$ISOTOPE:
+Re  186  EC  75  186  74  1  2  90.64 H
+$GAMMALINES:
+    122.6  3.90E-2  2.02E-3  1  0
+$LEVELS:
+      0.0    77.10     0.00     0.00     0.00    61.29    12.01     0.00     0.00 0
+    122.6    22.90     0.00     0.00     0.00    17.95     3.74     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     0.35     0.00
+     1.79     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.21     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.32     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

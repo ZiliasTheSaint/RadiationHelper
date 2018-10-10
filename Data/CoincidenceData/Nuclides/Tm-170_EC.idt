@@ -1,0 +1,24 @@
+$ISOTOPE:
+Tm  170  EC  69  170  68  1  2  128.6 D
+$GAMMALINES:
+     78.7  3.47E-3  3.16E-4  1  0
+$LEVELS:
+      0.0     0.10     0.00     0.00     0.00  7.92E-2  1.66E-2     0.00     0.00 0
+     78.7  2.97E-2     0.00     0.00     0.00  2.25E-2  5.41E-3     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     0.11     0.00
+     7.55     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.20     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.51     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

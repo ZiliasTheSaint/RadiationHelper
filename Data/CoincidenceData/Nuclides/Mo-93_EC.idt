@@ -1,0 +1,24 @@
+$ISOTOPE:
+Mo  93  EC  42  93  41  1  2  4000. Y
+$GAMMALINES:
+     30.7  4.91E-4     0.00  1  0
+$LEVELS:
+      0.0    24.00     0.00     0.00     0.00    20.71     2.67     0.00     0.00 0
+     30.7    88.00     0.00     0.00     0.00    73.97    11.36     0.00     0.00 1
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+  5.58E-6     0.00
+  1.79E+5     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.15     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.66     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

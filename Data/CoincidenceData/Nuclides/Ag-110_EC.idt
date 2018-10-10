@@ -1,0 +1,24 @@
+$ISOTOPE:
+Ag  110  EC  47  110  46  1  2  24.6 S
+$GAMMALINES:
+    374.0  6.00E-3  1.20E-3  1  0
+$LEVELS:
+      0.0     0.30     0.00     0.00     0.00     0.25  3.33E-2     0.00     0.00 0
+    373.8  2.00E-2     0.00     0.00     0.00  1.71E-2  2.29E-3     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     1.00     0.00
+     0.00     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

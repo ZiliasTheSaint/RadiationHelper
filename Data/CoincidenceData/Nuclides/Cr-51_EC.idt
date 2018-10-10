@@ -1,0 +1,24 @@
+$ISOTOPE:
+Cr  51  EC  24  51  23  1  2  27.704 D
+$GAMMALINES:
+    320.0    10.10     0.23  1  0
+$LEVELS:
+      0.0    89.90     0.00     0.00     0.00    80.18     8.33     0.00     0.00 0
+    320.0    10.10     0.00     0.00     0.00     8.99     0.94     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     0.99     0.00
+  1.88E-3     0.00
+$LEVELS-ECKBranch:
+     0.00
+  1.52E-3     0.00
+$LEVELS-ECL1Branch:
+     0.00
+  1.34E-4     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

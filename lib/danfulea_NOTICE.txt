@@ -1,0 +1,55 @@
+danfulea.jar library
+Copyright (c) 2016, Dan Fulea, fulea.dan@gmail.com
+Licensed under BSD License.
+
+============================================================================================================
+My intention is to give the user the complete freedom to use this software to create ANY kind of software,
+i.e.free software AND/OR proprietary software and not only free software, provided that the terms in the attached license are met.
+Basically a simple mention of copyright holder(s) in a notice file would suffice.
+
+Using any software (e.g. MySQL connector) licensed under a copyleft license such as GNU GPL, no matter if it is used one line of 
+code or more, inside (or linked to) the user own software, will force the user to give away its own source code, which means he 
+can create only free software. Examples of non-copylefted licenses, i.e. permissive licenses, are: BSD License, Apache License 2.0, GNU LGPL, MIT License.
+
+All licenses associated to all distributed libraries are permissive (see lib folder). 
+=============================================================================================================
+
+Portions of this software (some image resources inside danfulea.resources package, some classes inside danfulea.utils package 
+and some pieces of code inside danfulea.crypto) 
+were originally based on the following (permissive, i.e. non GPL, license):
+- Copyright (c) 1995, 2016 Oracle, http://download.oracle.com/otn-pub/java/tutorial/2016-07-19/license.html?AuthParam=1490106224_82a094ba84d400aab816eb37c36f6fa2,
+  Berkley license, which is BSD permissive license.
+- software copyright (c) 2003: Christian d'Heureuse, Inventec Informatik AG, Switzerland (multilicensed, permissive license included)
+
+Portions of this software (danfulea.db) may use the following free database driver or connector:
+- Apache Derby embedded driver, https://db.apache.org/derby/derby_downloads.html
+  Copyright (c) 2004-2011 The Apache Software Foundation
+  Licensed under the Apache License 2.0.
+- PostgreSQL connector, https://jdbc.postgresql.org/
+  Copyright (c) 1997-2011, PostgreSQL Global Development Group
+  Licensed under BSD License.
+  
+Portions of this software (GUI demo class) may use the following Look And Feel libraries:
+- Liquid, https://sourceforge.net/projects/liquidlnf/
+  Licensed under GNU LGPL
+- kunststoff: http://kunstoff.incors.com/archive/
+  Licensed under GNU LGPL
+- napkin: https://sourceforge.net/projects/napkinlaf/
+  Licensed under BSD License
+- pagosoft: http://www.pagosoft.com/projects/pgslookandfeel/
+- Licensed under the Apache License 2.0.
+- tonic: http://digitprop.com/tonic-lf/
+  Licensed under GNU LGPL  
+
+Portions of this software may use other free libraries for sending mail, buildind charts, generating reports, 
+creating Excel or PDF files:
+- JavaMail, http://www.oracle.com/technetwork/java/javamail/index.html
+  Licensed under Oracle Corporation ("ORACLE") ENTITLEMENT for SOFTWARE  
+- JFreeChart along with its JCommon dependency, https://sourceforge.net/projects/jfreechart/files/?source=navbar
+  Licensed under GNU LGPL.
+- Dynamicreports 4.4.0 (all its dependencies have also permissive licenses), http://www.dynamicreports.org/
+  Licensed under GNU LGPL. 
+- JexcelAPi, https://sourceforge.net/projects/jexcelapi/files/?source=navbar
+  Licensed under GNU LGPL
+- PDFBox, http://pdfbox.apache.org/index.html
+  Licensed under the Apache License 2.0.

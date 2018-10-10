@@ -1,0 +1,24 @@
+$ISOTOPE:
+Se  73  IT  34  73  34  1  2  39.8 M
+$GAMMALINES:
+     25.7  1.31E-2  4.39E-4  1  0
+$LEVELS:
+      0.0     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00 0
+     25.7     0.00     0.00   100.00     0.00     0.00     0.00     0.00     0.00 1
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+  1.81E-4     0.00
+   510.00     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.19     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.66     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

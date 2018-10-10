@@ -1,0 +1,23 @@
+$ISOTOPE:
+Tb  151  A  65  147  63  0  2  17.6 H
+$GAMMALINES:
+$LEVELS:
+      0.0     0.00     0.00     0.00   100.00     0.00     0.00     0.00     0.00 0
+    229.3     0.00     0.00     0.00     0.10     0.00     0.00     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     0.00     0.00
+     0.00     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

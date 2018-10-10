@@ -1,0 +1,9 @@
+---------------LOG FILE---------------------------------------
+medium:  medium
+data generated on:   dd: 1 mm: 6 yyyy: 2011 ora: 13:24:6
+type=ELEM rho=1.0 ne=1 iunrst=0 epstfl=0 iaprim=1
+Rayleigh data included
+cross section data from: /home/dane/dlucru/Eclipse/GammaBeta_MC/Data/egs/pgs4pepr.dat
+form factor data from: /home/dane/dlucru/Eclipse/GammaBeta_MC/Data/egs/pgs4form.dat
+ae=0.521 ap=0.01 ue=55.511 up=55.0
+data written to: /home/dane/dlucru/Eclipse/GammaBeta_MC/Data/egs/interactiv/pegs4.log

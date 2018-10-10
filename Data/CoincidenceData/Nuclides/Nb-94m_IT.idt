@@ -1,0 +1,24 @@
+$ISOTOPE:
+Nb  94  IT  41  94  41  1  2  6.26 Y
+$GAMMALINES:
+     40.9  7.31E-2  2.18E-3  1  0
+$LEVELS:
+      0.0     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00 0
+     40.9     0.00     0.00   100.00     0.00     0.00     0.00     0.00     0.00 1
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+  7.34E-4     0.00
+   360.00     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.52     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

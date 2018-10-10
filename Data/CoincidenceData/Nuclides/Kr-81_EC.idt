@@ -1,0 +1,24 @@
+$ISOTOPE:
+Kr  81  EC  36  81  35  1  2  229000. Y
+$GAMMALINES:
+    275.9     0.29  2.00E-2  1  0
+$LEVELS:
+      0.0    99.70     0.00     0.00     0.00    84.47    12.67     0.00     0.00 0
+    275.9     0.30     0.00     0.00     0.00     0.00     0.00     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     0.98     0.00
+  1.12E-2     0.00
+$LEVELS-ECKBranch:
+     0.00
+  9.69E-3     0.00
+$LEVELS-ECL1Branch:
+     0.00
+  1.05E-3     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

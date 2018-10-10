@@ -1,0 +1,24 @@
+$ISOTOPE:
+Cu  64  EC  29  64  28  1  2  12.7 H
+$GAMMALINES:
+   1345.8     0.47  1.00E-2  1  0
+$LEVELS:
+      0.0    42.60    17.86     0.00     0.00    26.95     2.93     0.00     0.00 0
+   1345.8     0.47     0.00     0.00     0.00     0.41  4.69E-2     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     1.00     0.00
+     0.00     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

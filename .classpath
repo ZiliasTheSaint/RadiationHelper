@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/derby.jar"/>
+	<classpathentry kind="lib" path="lib/GammaAnalysis.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="lib/lf/kunststoff.jar"/>
+	<classpathentry kind="lib" path="lib/lf/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="lib/lf/napkinlaf.jar"/>
+	<classpathentry kind="lib" path="lib/lf/pagosoft-plaf.jar"/>
+	<classpathentry kind="lib" path="lib/lf/toniclf.jar"/>
+	<classpathentry kind="lib" path="lib/Alpha_MC.jar"/>
+	<classpathentry kind="lib" path="lib/NEDS.jar"/>
+	<classpathentry kind="lib" path="lib/jxl.jar"/>
+	<classpathentry kind="lib" path="lib/GES_MC.jar"/>
+	<classpathentry kind="lib" path="lib/AlphaBetaAnalysis.jar"/>
+	<classpathentry kind="lib" path="lib/danfulea.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-app-2.0.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

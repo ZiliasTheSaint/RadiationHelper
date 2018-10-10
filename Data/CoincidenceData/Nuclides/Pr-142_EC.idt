@@ -1,0 +1,24 @@
+$ISOTOPE:
+Pr  142  EC  59  142  58  1  2  19.12 H
+$GAMMALINES:
+    642.0     0.22  1.28E-2  1  0
+$LEVELS:
+      0.0  1.42E-2     0.00     0.00     0.00  1.16E-2  1.97E-3     0.00     0.00 0
+    642.0  2.20E-3     0.00     0.00     0.00  1.52E-3  5.12E-4     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     1.00     0.00
+     0.00     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

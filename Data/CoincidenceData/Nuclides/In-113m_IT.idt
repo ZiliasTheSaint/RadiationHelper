@@ -1,0 +1,24 @@
+$ISOTOPE:
+In  113  IT  49  113  49  1  2  1.6582 H
+$GAMMALINES:
+    391.6    64.20     0.00  1  0
+$LEVELS:
+      0.0     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00 0
+    391.6     0.00     0.00   100.00     0.00     0.00     0.00     0.00     0.00 1
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     0.64     0.00
+     0.55     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.28     0.00
+$LEVELS-ECL1Branch:
+     0.00
+  5.58E-2     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

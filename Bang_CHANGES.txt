@@ -1,0 +1,26 @@
+Version 2.4
+Minor bug fixed when performing gamma analysis without saving. Now, quantity and its units are properly tracked.
+Customization for reports to be easier to read, in Gamma Analysys, Alpha and Beta module.
+
+Version 2.3
+Fixed computation of detection limit (MDA) in core "danfulea" package, when gamma ROI is updated. Before, the interesed quantity was ambient corrected continuum (Compton) background, Kg, but it should be Kg plus the ambient gross counts.
+ 
+Explanation: When setting a ROI, what we measure/compute directly is the following quantity:
+G = Ng+Nb+Kg+Kb where:
+G=gross sample counts; Ng= supposed Net area due to pure sample; Nb=supposed Net area due to ambient BKG;
+Kg=continuum due to sample; Kb=continuum due to ambient BKG; Of course, ambient BKG gross is B = Nb + Kb. We know G and B in the sense that they can be easily computed.
+We always want Ng because Ng is Net area due to pure sample, all correction performed! When no gaussian fit is chosen, Ng = G - (Nb+Kb) - Kg = G - B - Kg! That's why we compute in gammaRoi/performBasicCOmputation() method 
+the ambient corrected continuum, Kg, first. Kg must be ambient corrected because it is due to pure sample! Similar algorithm (but slightly more complex) is used for gausian fit/net area calculation mode. It follows that, the net area, Ng, is evaluated against a global BKG which has 2 components: the ambient corrected continuum AND the ambient BKG. Therefore, B+Kg must be used in detection limit equation and not just Kg.
+  
+Fixed some minor bugs when computing the average of pulses over some channels in background region in GammaAnalysis module. 
+
+Version 2.2
+Added option to save and load ROIs in GammaAnalysis module. When Rois are loaded (from ROI file) all ROIs computations are automatically performed. Also, added a new algorithm for computing the continuum Compton bakground by taking the average of counts over 3 channels at each edge. This will reduce the relatively large deviation when selecting ROIs differently (few channels slightly to the left or right).
+
+Version 2.1
+Added Linux support for running external C++ program (detector). Do not forget to modify MoneCarloPath.txt according to your path to executable as well as Geant4 nuclear data. All entries must be separated by white-spaces (new line is ok).
+
+Version 2.0
+1. Database optimization. Handling HpGe gamma spectra is much faster now!
+2. Documentation and licences included for all classes. See doc folder and lib folder for licenses.
+3. Removing all GPL-ed code (and any other code whose license imposes restrictions to users). For example, itext library was removed, and now the pdfbox is used for PDF file creation. The reason for this is: this software must be completely free, no restrictions should be imposed to the user, i.e. he/she can redistribute this software with or without modification in any way he/she likes (open source or close source). Just retain my copyright notice and that's it (see BSD License text).

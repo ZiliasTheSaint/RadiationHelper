@@ -1,0 +1,24 @@
+$ISOTOPE:
+Na  22  EC  11  22  10  1  2  2.6088 Y
+$GAMMALINES:
+   1274.5    99.90  1.40E-2  1  0
+$LEVELS:
+      0.0     0.00  5.60E-2     0.00     0.00     0.00     0.00     0.00     0.00 0
+   1274.6    10.10    89.84     0.00     0.00     0.94  7.79E-2     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     1.00     0.00
+     0.00     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

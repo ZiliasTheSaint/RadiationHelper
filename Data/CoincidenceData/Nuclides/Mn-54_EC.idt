@@ -1,0 +1,24 @@
+$ISOTOPE:
+Mn  54  EC  25  54  24  1  2  312.12 D
+$GAMMALINES:
+    834.8   100.00  1.00E-3  1  0
+$LEVELS:
+      0.0  3.60E-4  7.00E-8     0.00     0.00     0.00     0.00     0.00     0.00 0
+    834.8   100.00     0.00     0.00     0.00    88.95     9.41     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     0.99     0.00
+  2.40E-4     0.00
+$LEVELS-ECKBranch:
+     0.00
+  2.23E-4     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

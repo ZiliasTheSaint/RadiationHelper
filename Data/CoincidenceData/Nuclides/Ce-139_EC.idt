@@ -1,0 +1,24 @@
+$ISOTOPE:
+Ce  139  EC  58  139  57  1  2  137.64 D
+$GAMMALINES:
+    165.8    79.90  1.43E-2  1  0
+$LEVELS:
+      0.0  3.60E-3     0.00     0.00     0.00  2.94E-3  5.10E-4     0.00     0.00 0
+    165.8    99.99     0.00     0.00     0.00    72.89     0.00     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     0.79     0.00
+     0.25     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.17     0.00
+$LEVELS-ECL1Branch:
+     0.00
+  2.30E-2     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

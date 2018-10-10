@@ -1,0 +1,24 @@
+$ISOTOPE:
+W  185  B-  74  185  75  1  2  75.1 D
+$GAMMALINES:
+    125.3  1.92E-2  7.00E-4  1  0
+$LEVELS:
+      0.0     0.00     0.00    99.92     0.00     0.00     0.00     0.00     0.00 0
+    125.3     0.00     0.00  7.20E-2     0.00     0.00     0.00     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     0.26     0.00
+     2.76     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.60     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.10     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

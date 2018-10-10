@@ -1,0 +1,24 @@
+$ISOTOPE:
+Sm  142  EC  62  142  61  1  2  72.49 M
+$GAMMALINES:
+    679.0  9.90E-2  1.98E-2  1  0
+$LEVELS:
+      0.0    94.14     5.76     0.00     0.00    74.74    10.81     0.00     0.00 0
+    679.0     0.10     0.00     0.00     0.00  8.31E-2  1.30E-2     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     1.00     0.00
+     0.00     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

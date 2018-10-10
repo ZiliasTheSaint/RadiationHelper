@@ -1,0 +1,24 @@
+$ISOTOPE:
+Lu  176  EC  71  176  70  1  2  3.635 H
+$GAMMALINES:
+     82.1  7.03E-3  1.85E-3  1  0
+$LEVELS:
+      0.0  3.80E-2     0.00     0.00     0.00  2.83E-2  7.29E-3     0.00     0.00 0
+     82.1  5.70E-2     0.00     0.00     0.00  3.76E-2  1.44E-2     0.00     0.00 0
+$LEVELS-GAMMABranch:
+     0.00
+     0.00
+     0.12     0.00
+     7.07     0.00
+$LEVELS-ECKBranch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL1Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL2Branch:
+     0.00
+     0.00     0.00
+$LEVELS-ECL3Branch:
+     0.00
+     0.00     0.00

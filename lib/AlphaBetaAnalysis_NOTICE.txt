@@ -1,0 +1,31 @@
+Copyright (c) 2016, Dan Fulea, fulea.dan@gmail.com
+Licensed under BSD License.
+
+============================================================================================================
+All licenses associated to all distributed libraries are permissive (see lib folder). 
+=============================================================================================================
+
+This software may use the following Look And Feel libraries:
+- Liquid, https://sourceforge.net/projects/liquidlnf/
+  Licensed under GNU LGPL
+- kunststoff: http://kunstoff.incors.com/archive/
+  Licensed under GNU LGPL
+- napkin: https://sourceforge.net/projects/napkinlaf/
+  Licensed under BSD License
+- pagosoft: http://www.pagosoft.com/projects/pgslookandfeel/
+- Licensed under the Apache License 2.0.
+- tonic: http://digitprop.com/tonic-lf/
+  Licensed under GNU LGPL  
+
+This software uses the following free database driver or connector:
+- Apache Derby embedded driver, https://db.apache.org/derby/derby_downloads.html
+  Copyright (c) 2004-2011 The Apache Software Foundation
+  Licensed under the Apache License 2.0.
+
+This software may use other free libraries for scientific computations, buildind charts or generating PDF files:
+- danfulea.jar library
+  Licensed under BSD License.
+- JFreeChart along with its JCommon dependency, https://sourceforge.net/projects/jfreechart/files/?source=navbar
+  Licensed under GNU LGPL.
+- PDFBox, http://pdfbox.apache.org/index.html
+  Licensed under the Apache License 2.0.
