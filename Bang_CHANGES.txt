@@ -1,3 +1,6 @@
+Version 2.5
+Fixed communication between java app (GammaBeta_MC module) and GEANT4 based app (detector) when using Linux Mint 19 Tara with the latest java 8 jdk (update 181).
+
 Version 2.4
 Minor bug fixed when performing gamma analysis without saving. Now, quantity and its units are properly tracked.
 Customization for reports to be easier to read, in Gamma Analysys, Alpha and Beta module.

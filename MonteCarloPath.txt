@@ -1,9 +1,10 @@
 D:\\gdet_exe_web
-G4LEDATA=/home/yeu/geant4_9_6_p02_install/share/Geant4-9.6.2/data/G4EMLOW6.32
-G4LEVELGAMMADATA=/home/yeu/geant4_9_6_p02_install/share/Geant4-9.6.2/data/PhotonEvaporation2.3
-G4NEUTRONHPDATA=/home/yeu/geant4_9_6_p02_install/share/Geant4-9.6.2/data/G4NDL4.2
-G4NEUTRONXSDATA=/home/yeu/geant4_9_6_p02_install/share/Geant4-9.6.2/data/G4NEUTRONXS1.2
-G4PIIDATA=/home/yeu/geant4_9_6_p02_install/share/Geant4-9.6.2/data/G4PII1.3
-G4RADIOACTIVEDATA=/home/yeu/geant4_9_6_p02_install/share/Geant4-9.6.2/data/RadioactiveDecay3.6
-G4REALSURFACEDATA=/home/yeu/geant4_9_6_p02_install/share/Geant4-9.6.2/data/RealSurface1.0
-G4SAIDXSDATA=/home/yeu/geant4_9_6_p02_install/share/Geant4-9.6.2/data/G4SAIDDATA1.1
+export G4LEDATA=/home/danevb/geant4_9_6_p02_install/share/Geant4-9.6.2/data/G4EMLOW6.32
+export G4LEVELGAMMADATA=/home/danevb/geant4_9_6_p02_install/share/Geant4-9.6.2/data/PhotonEvaporation2.3
+export G4NEUTRONHPDATA=/home/danevb/geant4_9_6_p02_install/share/Geant4-9.6.2/data/G4NDL4.2
+export G4NEUTRONXSDATA=/home/danevb/geant4_9_6_p02_install/share/Geant4-9.6.2/data/G4NEUTRONXS1.2
+export G4PIIDATA=/home/danevb/geant4_9_6_p02_install/share/Geant4-9.6.2/data/G4PII1.3
+export G4RADIOACTIVEDATA=/home/danevb/geant4_9_6_p02_install/share/Geant4-9.6.2/data/RadioactiveDecay3.6
+export G4REALSURFACEDATA=/home/danevb/geant4_9_6_p02_install/share/Geant4-9.6.2/data/RealSurface1.0
+export G4SAIDXSDATA=/home/danevb/geant4_9_6_p02_install/share/Geant4-9.6.2/data/G4SAIDDATA1.1
+export LD_LIBRARY_PATH=/home/danevb/geant4_9_6_p02_install/lib
