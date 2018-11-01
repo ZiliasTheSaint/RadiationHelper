@@ -1,3 +1,6 @@
+Version 2.6
+Fixed jeditorPane not updating when new alpha/beta analysis is performed on same instance. This is unlike gamma analysis where new result frame is created every time.
+
 Version 2.5
 Fixed communication between java app (GammaBeta_MC module) and GEANT4 based app (detector) when using Linux Mint 19 Tara with the latest java 8 jdk (update 181).
 

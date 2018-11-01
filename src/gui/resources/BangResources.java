@@ -62,7 +62,7 @@ public class BangResources extends ListResourceBundle {
 			{ "Author.name", "Dan Fulea , fulea.dan@gmail.com" },
 
 			{ "Version", "Version:" },
-			{ "Version.name", "RadiationHelper Collection 2.5" },
+			{ "Version.name", "RadiationHelper Collection 2.6" },
 
 			{
 					"License",
